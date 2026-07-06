@@ -1,0 +1,40 @@
+
+---------------------- Line 1 ----------------------
+The line is : int main () {
+int---> identifier
+main---> identifier
+()--->constant
+{--->punctuation
+
+---------------------- Line 2 ----------------------
+The line is : cout << " hello " ;
+cout---> keyword
+<<--->operator
+"--->constant
+hello---> identifier
+"--->constant
+;--->punctuation
+
+---------------------- Line 3 ----------------------
+The line is : int x ;
+int---> identifier
+x---> identifier
+;--->punctuation
+
+---------------------- Line 4 ----------------------
+The line is : float y ;
+float---> identifier
+y---> identifier
+;--->punctuation
+
+---------------------- Line 5 ----------------------
+The line is : return x + y ;
+return---> identifier
+x---> identifier
++--->operator
+y---> identifier
+;--->punctuation
+
+---------------------- Line 6 ----------------------
+The line is : }
+}--->punctuation
